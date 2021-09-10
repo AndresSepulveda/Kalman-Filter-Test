@@ -1,4 +1,4 @@
-# Kalman-Filter-Test
+# Test del Filtro Kalman
 
 The Kalman Filter is used in any place where you have uncertain infromation about a dynamic system and you can make an educated guess of what the system will do next. The filter will provide an estimated sensor reading from a noisy measurement. 
 
